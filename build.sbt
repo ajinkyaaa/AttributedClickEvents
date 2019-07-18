@@ -10,8 +10,8 @@ Test / parallelExecution := false
 parallelExecution in ThisBuild := false
 libraryDependencies ++= Seq(
   // https://mvnrepository.com/artifact/org.apache.spark/spark-core_2.11
-  "org.apache.spark" %% "spark-core" % "2.3.2" ,
+  "org.apache.spark" %% "spark-core" % "2.2.1" ,
   // https://mvnrepository.com/artifact/org.apache.spark/spark-sql_2.11
-  "org.apache.spark" %% "spark-sql" % "2.3.2" ,
+  "org.apache.spark" %% "spark-sql" % "2.2.1" ,
   "org.scalactic" %% "scalactic" % "3.0.8",
   "org.scalatest" %% "scalatest" % "3.0.8" % "test")

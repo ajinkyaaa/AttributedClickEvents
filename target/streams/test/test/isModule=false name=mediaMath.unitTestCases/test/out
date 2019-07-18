@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32munitTestCases:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return event with timestamp 1450631452 as attributed event[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should remove 23aa6216-3997-4255-9e10-7e37a1f07060 and 20702cb7-60ca-413a-8244-d22353e2be49 and keep events with timestamps 1450631450 and 1450631464[0m[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ajinkya.parkar@ibm.com/Documents/scala/test/src/test/scala/mediaMath/unitTestCases.scala:53:75: value as is not a member of Array[org.apache.spark.sql.Row][0m
+[0m[[0m[31merror[0m] [0m[0m    val result = filteredAttributedEventsDF.select("timestamp").collect().as[Int][0m
+[0m[[0m[31merror[0m] [0m[0m                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

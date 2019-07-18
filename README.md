@@ -9,7 +9,7 @@ The advertiser and the user of both the impression and the event have to be the 
 
  
 
-The goal of the application if to attribute events with relevant impressions by running the following two operations on the provided datasets.
+The goal of the application if to attribute events with relevant impressions.
 
 ##*Steps for running the report*
 

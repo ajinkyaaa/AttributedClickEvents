@@ -15,6 +15,7 @@ The goal of the application if to attribute events with relevant impressions.
 
 - open terminal and run "sbt clean"
 - Get root access and navigate to the project folder. Root access is given because sometimes it has issues writing csv files.
+- Change spark master URL from local to your master URL.
 - "sbt run"
 - count_of_events.csv and count_of_users.csv are generated.
 - run command "sbt test" to run unit test cases.
